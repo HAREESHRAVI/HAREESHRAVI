@@ -12,4 +12,4 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 📫 How to reach me **hareesh.unofficial@gmail.com**
+- 📫 Reach me @ **hareesh.unofficial@gmail.com**
