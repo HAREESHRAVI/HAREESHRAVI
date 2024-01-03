@@ -13,6 +13,3 @@
 - 👯 I’m looking to collaborate on **projects**
 
 - 📫 How to reach me **hareesh.unofficial@gmail.com**
-![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
-![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
-![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=black)
