@@ -23,7 +23,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
 ![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
-![SQLite](https://img.shields.io/badge/Sqlite-black.svg?style=for-the-badge&logo=Sqlite&labelColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
 ![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=black)
