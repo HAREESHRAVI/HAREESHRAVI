@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+<span style='color:gold'>Hareeshravi</span>+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hareeshravi+!;" />
 </h1>
-<span style="color:gold">Hareeshravi</span>
 
+<h3 align="center">A passionate software developer from India 🇮🇳 </h3>
 
 
 <h3 align="center">A passionate software developer from India 🇮🇳 </h3>
