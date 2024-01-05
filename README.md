@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **PathPlanPro**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **projects**
 
