@@ -21,6 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-black.svg?style=for-the-badge&logo=Typescript&labelColor=black)
 ![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
 ![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
