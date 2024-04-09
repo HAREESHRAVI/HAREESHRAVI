@@ -16,24 +16,24 @@
 
   <br/>
 
-  ### Known Languages:
-  <br/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-<br/>
-  ### Known Tools:
-  <br/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Linux-logos-and-brands-those-icons-flat-those-icons"/>
+### Known Languages:
+
+![c-programming](https://img.icons8.com/fluency/48/c-programming.png)
+![java-coffee-cup-logo](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
+![python](https://img.icons8.com/color/48/python--v1.png)
+![html-5](https://img.icons8.com/color/48/html-5--v1.png)
+![css3](https://img.icons8.com/color/48/css3.png)
+![bootstrap](https://img.icons8.com/fluency/48/bootstrap.png)
+![javascript](https://img.icons8.com/color/48/javascript--v1.png)
+![typescript](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png)
+![git](https://img.icons8.com/color/48/git.png)
+![github](https://img.icons8.com/fluency/48/github.png)
+![mongodb](https://img.icons8.com/color/48/mongodb.png)
+
+### Known Tools:
+
+![unity](https://img.icons8.com/ios-filled/50/unity.png)
+![blender-3d](https://img.icons8.com/color/48/blender-3d.png)
+![visual-studio-code-2019](https://img.icons8.com/color/48/visual-studio-code-2019.png)
+![pycharm](https://img.icons8.com/color/48/pycharm--v1.png)
+![linux](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png)
