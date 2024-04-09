@@ -25,14 +25,14 @@
 ![css3](https://img.icons8.com/color/48/css3.png)
 ![bootstrap](https://img.icons8.com/fluency/48/bootstrap.png)
 ![javascript](https://img.icons8.com/color/48/javascript--v1.png)
-![typescript](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png)
+![typescript](https://img.icons8.com/color/48/typescript.png)
+![mongodb](https://img.icons8.com/color/48/mongodb.png)
 ![git](https://img.icons8.com/color/48/git.png)
 ![github](https://img.icons8.com/fluency/48/github.png)
-![mongodb](https://img.icons8.com/color/48/mongodb.png)
 
 ### Known Tools:
 
-![unity](https://img.icons8.com/ios-filled/50/unity.png)
+![unity](https://img.icons8.com/ios-filled/50/FFFFFF/unity.png)
 ![blender-3d](https://img.icons8.com/color/48/blender-3d.png)
 ![visual-studio-code-2019](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![pycharm](https://img.icons8.com/color/48/pycharm--v1.png)
