@@ -18,7 +18,8 @@
 
   ### Known Languages and Tools:
   <br/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <a  href="https://icons8.com/icon/13679/java">Java</a> icon by <a href="https://icons8.com">Icons8</a>
+  
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-black.svg?style=for-the-badge&logo=Typescript&labelColor=black)
