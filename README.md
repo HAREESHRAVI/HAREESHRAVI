@@ -33,7 +33,10 @@
 ### Known Tools:
 
 ![unity](https://img.icons8.com/ios-filled/50/FFFFFF/unity.png)
+![unreal-engine](https://img.icons8.com/ios-filled/50/FFFFFF/unreal-engine.png)
 ![blender-3d](https://img.icons8.com/color/48/blender-3d.png)
+![canva](https://img.icons8.com/ios-filled/50/FFFFFF/canva.png)
+![figma--v1](https://img.icons8.com/color/48/figma--v1.png)
 ![visual-studio-code-2019](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![pycharm](https://img.icons8.com/color/48/pycharm--v1.png)
 ![linux](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png)
