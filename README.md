@@ -14,10 +14,7 @@
 
 - 📫 Reach me @ **hareesh.unofficial@gmail.com**
 
-<div style="text-align: center; margin-bottom: 20px;">
-    <a href="https://hareesh-s-portfolio.vercel.app" style="text-decoration: none; color: #333; background-color: #eee; padding: 10px 20px; border-radius: 5px;">Visit my Portfolio</a>
-</div>
-
+- 📝 <a href="https://hareesh-s-portfolio.vercel.app">Link to my Portfolio</a>
   <br/>
 
 ### Known Languages:
