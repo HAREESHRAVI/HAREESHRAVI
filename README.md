@@ -14,6 +14,8 @@
 
 - 📫 Reach me @ **hareesh.unofficial@gmail.com**
 
+<a href="https://hareesh-s-portfolio.vercel.app/">Link to my Portfolio</a>
+
   <br/>
 
 ### Known Languages:
