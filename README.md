@@ -14,7 +14,7 @@
 
 - 📫 Reach me @ **hareesh.unofficial@gmail.com**
 
-- 📝 <a target="_blank" rel="noopener noreferrer"  href="https://hareesh-s-portfolio.vercel.app">Link to my Portfolio</a>
+- 📝 <a target="_blank" rel="noopener noreferrer"  href="https://hareesh-s-portfolio.vercel.app">Visit my Portfolio</a>
   <br/>
 
 ### Known Languages:
