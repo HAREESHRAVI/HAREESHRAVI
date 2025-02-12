@@ -26,7 +26,6 @@
 ![css3](https://img.icons8.com/color/48/css3.png)
 ![bootstrap](https://img.icons8.com/fluency/48/bootstrap.png)
 ![javascript](https://img.icons8.com/color/48/javascript--v1.png)
-![typescript](https://img.icons8.com/color/48/typescript.png)
 ![mongodb](https://img.icons8.com/color/48/mongodb.png)
 ![git](https://img.icons8.com/color/48/git.png)
 ![github](https://img.icons8.com/fluency/48/github.png)
