@@ -6,29 +6,19 @@
 
 <br/>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;">
 
-<div style="flex: 1; min-width: 300px; font-size: 16px;">
-
-- 🔭 I’m currently working on **PathPlanPro** (website)
-  
+  <div style="flex: 1; min-width: 300px; font-size: 16px; white-space: pre-line;">
+- 🔭 I’m currently working on PathPlanPro (website)
+      
 - 🌱 I’m currently learning **React**
   
 - 👯 I’m looking to collaborate on **projects**
-   
+  
 - 📫 Reach me @ **hareesh.unofficial@gmail.com**
-
+  
 - 📝 [Visit my Portfolio](https://hareesh-s-portfolio.vercel.app)
-
-</div>
-
-<div style="flex: 1; min-width: 250px; text-align: center;">
-  <img src="person-playing-3d-video-games-device.jpg" alt="Hareesh coding" width="250"/>
-</div>
-
-</div>
-
-
+  </div>
 <br/><br/>
 
 ### Tech Stack and Tools:
