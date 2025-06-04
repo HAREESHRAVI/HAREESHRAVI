@@ -6,37 +6,58 @@
 
 <br/>
 
-- 🔭 I’m currently working on **PathPlanPro**(website)
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
+<div style="flex: 1; min-width: 300px; font-size: 16px;">
+
+- 🔭 I’m currently working on **PathPlanPro** (website)
+  
 - 🌱 I’m currently learning **React**
-
+  
 - 👯 I’m looking to collaborate on **projects**
-
+   
 - 📫 Reach me @ **hareesh.unofficial@gmail.com**
 
-- 📝 <a target="_blank" rel="noopener noreferrer"  href="https://hareesh-s-portfolio.vercel.app">Visit my Portfolio</a>
-  <br/>
+- 📝 [Visit my Portfolio](https://hareesh-s-portfolio.vercel.app)
 
-### Known Languages:
+</div>
 
-![c-programming](https://img.icons8.com/fluency/48/c-programming.png)
-![java-coffee-cup-logo](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
-![python](https://img.icons8.com/color/48/python--v1.png)
-![html-5](https://img.icons8.com/color/48/html-5--v1.png)
-![css3](https://img.icons8.com/color/48/css3.png)
-![bootstrap](https://img.icons8.com/fluency/48/bootstrap.png)
-![javascript](https://img.icons8.com/color/48/javascript--v1.png)
-![mongodb](https://img.icons8.com/color/48/mongodb.png)
-![git](https://img.icons8.com/color/48/git.png)
-![github](https://img.icons8.com/fluency/48/github.png)
+<div style="flex: 1; min-width: 250px; text-align: center;">
+  <img src="person-playing-3d-video-games-device.jpg" alt="Hareesh coding" width="250"/>
+</div>
 
-### Known Tools:
+</div>
 
-![unity](https://img.icons8.com/ios-filled/50/FFFFFF/unity.png)
-![unreal-engine](https://img.icons8.com/ios-filled/50/FFFFFF/unreal-engine.png)
-![blender-3d](https://img.icons8.com/color/48/blender-3d.png)
-![canva](https://img.icons8.com/ios-filled/50/FFFFFF/canva.png)
-![figma--v1](https://img.icons8.com/color/48/figma--v1.png)
-![visual-studio-code-2019](https://img.icons8.com/color/48/visual-studio-code-2019.png)
-![pycharm](https://img.icons8.com/color/48/pycharm--v1.png)
-![linux](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png)
+
+<br/><br/>
+
+### Tech Stack and Tools:
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
+
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="50" height="50" src="https://img.icons8.com/nolan/50/github.png" alt="github"/>
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; margin-top: 20px;">
+
+  <img width="50" height="50" src="https://img.icons8.com/badges/48/unity.png" alt="unity"/>
+  <img width="50" height="50" src="https://img.icons8.com/nolan/50/unreal-engine.png" alt="unreal"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm"/>
+  <img width="50" height="50" src="https://img.icons8.com/nolan/50/linux--v2.png" alt="linux"/>
+
+</div>
