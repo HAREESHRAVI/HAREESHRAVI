@@ -8,7 +8,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;">
 
-  <div style="flex: 1; min-width: 300px; font-size: 16px; white-space: pre-line;">
 - 🔭 I’m currently working on PathPlanPro (website)
       
 - 🌱 I’m currently learning **React**
