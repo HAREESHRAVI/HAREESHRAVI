@@ -25,6 +25,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
 
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/50/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
